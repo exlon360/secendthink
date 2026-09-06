@@ -1,0 +1,21 @@
+{
+  "name": "secendthink",
+  "version": "0.1.0+codex.20260906180506",
+  "description": "Turn a rough request into a clear, thorough ultra prompt, then carry it out using your selected model.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "secendthink",
+    "shortDescription": "Improve your request, then carry it out.",
+    "longDescription": "Use secendthink or its st shortcut to turn your request into a polished prompt with a clear goal, relevant context, constraints, deliverables, and success criteria, then immediately complete the task. Uses the model already selected in your task, with no copy-paste step. Ask for only the prompt when you want to reuse it elsewhere.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use $secendthink to improve my next request into an ultra prompt, then carry it out.",
+      "Use $st to improve and carry out this request: plan my portfolio website."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "secendthink"
+  short_description: "Improve your request, then carry it out"
+  default_prompt: "Use $secendthink to improve this request into a clear, thorough ultra prompt, then immediately carry it out."
